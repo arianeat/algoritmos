@@ -12,3 +12,11 @@ Implementação dos seguintes algoritmos de ordenação:
 • [Selection sort](https://github.com/arianeat/algoritmos_de_ordenacao/blob/main/selection_sort.py)
 
 • [Insertion sort](https://github.com/arianeat/algoritmos_de_ordenacao/blob/main/insertion_sort.py)
+#
+### ATIVIDADE 2 - Ordenação por Comparação II  
+#  
+Implementação dos seguintes algoritmos de ordenação:
+
+• [Merge sort](https://github.com/arianeat/algoritmos_de_ordenacao/blob/main/merge_sort.py)
+
+• [Quick sort](https://github.com/arianeat/algoritmos_de_ordenacao/blob/main/quick_sort.py)
