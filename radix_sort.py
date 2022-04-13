@@ -80,7 +80,6 @@ if __name__ == "__main__":
     testmod()
     numbers = input("Entre com os números separados por vírgula:\n").strip()
     array = [int(item) for item in numbers.split(",")]
-    #array = [ 170, 45, 75, 90, 802, 24, 2, 66]
 
     print(radix_sort(array))
 
