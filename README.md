@@ -28,3 +28,11 @@ Implementação dos seguintes algoritmos de ordenação:
 • [Counting sort](https://github.com/arianeat/algoritmos_de_ordenacao/blob/main/counting_sort.py)
 
 • [Radix sort](https://github.com/arianeat/algoritmos_de_ordenacao/blob/main/radix_sort.py)
+#
+#### ATIVIDADE 4 - Ordenação por Comparação III   
+#  
+Implementação das seguintes estruturas e algoritmos:
+
+• [Heap máximo](https://github.com/arianeat/algoritmos_de_ordenacao/blob/main/max_heap.py)
+
+• [Heap sort](https://github.com/arianeat/algoritmos_de_ordenacao/blob/main/heap_sort.py)
