@@ -1,5 +1,5 @@
 """
-Implementação do algoritmo max heapify em python
+Implementação do algoritmo max heap em python
 
 Para rodar o doctest use o comando:
 python -m doctest -v max_heap.py
