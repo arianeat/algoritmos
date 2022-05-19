@@ -49,11 +49,12 @@ def Prim(arquivo):
     
     while Q != []:
         u = build_min_heap(Q)
-        visitados[u[0]] = True
-        for v in lista[u[0]]:
-            if visitados[v]== False and matriz[u[0]][v]<V[v][2]:
-                V[v][1]=u[0] #pai
-                V[v][2]=matriz[u[0]][v] #chave
+        min = u[0]
+        visitados[min] = True
+        for v in lista[min]:
+            if visitados[v]== False and matriz[min][v]<V[v][2]:
+                V[v][1]=min #pai
+                V[v][2]=matriz[min][v] #chave
         Q.remove(u) 
 
     #somando o caminho
@@ -123,4 +124,3 @@ def build_min_heap(A):
     for i in range((len(A)//2)-1,-1,-1):
         min_heapify(A,i)
     return A[0]
-
