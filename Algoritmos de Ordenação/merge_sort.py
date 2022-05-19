@@ -10,9 +10,9 @@ python merge_sort.py
 """
 
 def merge(ini,meio,fim,A):
-    W=[]
-    for x in range(fim-ini):
-        W.append(0)
+    
+    W=[0] * (fim-ini)
+  
     i=ini
     j=meio
     k=0
