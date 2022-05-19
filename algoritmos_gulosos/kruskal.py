@@ -21,7 +21,7 @@ def Kruskal(arquivo):
     #criando a matriz de adjacencia do grafo
     matriz = criarMatrizAdj(arquivo)
 
-    A = []
+    A = []  #conjunto de arestas selecionadas
       
     #criando o conjunto de arestas com o seu peso
     arestas = []
@@ -38,9 +38,9 @@ def Kruskal(arquivo):
         i+=1
     
     #ordenando o conjunto de arestas
-    arestas = insertion_sort(arestas)
+    arestas = sorted(arestas, key = lambda x: x[2])
 
-    #vetor auxiliar
+    #vetor auxiliar 
     aux = []
     for i in range(len(matriz[0])):
         aux.append(i)
@@ -94,14 +94,4 @@ def criarMatrizAdj(arquivo):
             i+=1
 
         return matriz
-
-
-def insertion_sort(A):
-    for i in range(1,len(A)):
-        pivo = A[i]
-        while i>0 and A[i-1][2]> pivo[2]:
-            A[i] = A[i-1]
-            i -= 1
-        A[i] = pivo
-    return A
 
