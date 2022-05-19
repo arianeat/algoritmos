@@ -1,5 +1,5 @@
 #### ALGORITMOS DE ORDENAÇÃO
-#
+</br>
 
 1. [Selection sort](https://github.com/arianeat/algoritmos/blob/main/Algoritmos%20de%20Ordena%C3%A7%C3%A3o/selection_sort.py)
 
@@ -18,13 +18,21 @@
 
 8. [Heap sort](https://github.com/arianeat/algoritmos/blob/main/Algoritmos%20de%20Ordena%C3%A7%C3%A3o/heap_sort.py)
 
+</br>
+
 #### ALGORITMOS GULOSOS
-#
-1.
-2.
-3.
+</br>
+
+1. [Kruskal](https://github.com/arianeat/algoritmos/blob/main/Algortimos%20Gulosos/kruskal.py)
+
+2. [PRIM](https://github.com/arianeat/algoritmos/blob/main/Algortimos%20Gulosos/PRIM.py)
+
+3. [Dijkstra](https://github.com/arianeat/algoritmos/blob/main/Algortimos%20Gulosos/dijkstra.py)
+
+</br>
 
 #### PROGRAMAÇÃO DINÂMICA
-#
-1.
+</br>
+
+1. [Mochila inteira](https://github.com/arianeat/algoritmos/blob/main/Programa%C3%A7%C3%A3o%20Din%C3%A2mica/mochilainteira.py)
 
