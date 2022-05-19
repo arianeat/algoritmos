@@ -52,12 +52,13 @@ def Dijkstra(arquivo):
     
     while Q != []:
         u = build_min_heap(Q)
-        visitados[u[0]] = True
-        for v in lista[u[0]]:
+        min = u[0]
+        visitados[min] = True
+        for v in lista[min]:
             #RELAX
-            if visitados[v]== False and V[v][2]> V[u[0]][2] + matriz[u[0]][v]:
-                V[v][1]= u[0]
-                V[v][2]= (V[V[v][1]][2] + matriz[u[0]][v]) 
+            if visitados[v]== False and V[v][2]> V[min][2] + matriz[min][v]:
+                V[v][1]= min
+                V[v][2]= (V[V[v][1]][2] + matriz[min][v]) 
         Q.remove(u)
         
   
@@ -137,4 +138,3 @@ def build_min_heap(A):
     for i in range((len(A)//2)-1,-1,-1):
         min_heapify(A,i)
     return A[0]
-
