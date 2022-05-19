@@ -1,4 +1,6 @@
-#### ALGORITMOS DE ORDENAÇÃO
+# ALGORITMOS 
+
+#### ALGORITMOS DE ORDENAÇÃO 
 </br>
 
 1. [Selection sort](https://github.com/arianeat/algoritmos/blob/main/Algoritmos%20de%20Ordena%C3%A7%C3%A3o/selection_sort.py)
@@ -23,11 +25,11 @@
 #### ALGORITMOS GULOSOS
 </br>
 
-1. [Kruskal](https://github.com/arianeat/algoritmos/blob/main/Algortimos%20Gulosos/kruskal.py)
+1. [Kruskal](https://github.com/arianeat/algoritmos/blob/main/Algoritmos%20Gulosos/kruskal.py)
 
-2. [PRIM](https://github.com/arianeat/algoritmos/blob/main/Algortimos%20Gulosos/PRIM.py)
+2. [PRIM](https://github.com/arianeat/algoritmos/blob/main/Algoritmos%20Gulosos/PRIM.py)
 
-3. [Dijkstra](https://github.com/arianeat/algoritmos/blob/main/Algortimos%20Gulosos/dijkstra.py)
+3. [Dijkstra](https://github.com/arianeat/algoritmos/blob/main/Algoritmos%20Gulosos/dijkstra.py)
 
 </br>
 
