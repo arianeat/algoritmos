@@ -1,38 +1,30 @@
-
-##### Universidade Federal da Paraíba
-##### Centro de Informática 
-##### Disciplina: PPGI - Estrutura de Dados e Complexidade de Algoritmos (2022.1)
-##### Professor: Gilberto Farias
-##### Aluna: Ariane Marina de Albuquerque Teixeira  
+#### ALGORITMOS DE ORDENAÇÃO
 #
-#### ATIVIDADE 1 - Ordenação por Comparação I  
-#  
-Implementação dos seguintes algoritmos de ordenação:
 
-• [Selection sort](https://github.com/arianeat/algoritmos_de_ordenacao/blob/main/selection_sort.py)
+1. [Selection sort](https://github.com/arianeat/algoritmos/blob/main/Algoritmos%20de%20Ordena%C3%A7%C3%A3o/selection_sort.py)
 
-• [Insertion sort](https://github.com/arianeat/algoritmos_de_ordenacao/blob/main/insertion_sort.py)
+2. [Insertion sort](https://github.com/arianeat/algoritmos/blob/main/Algoritmos%20de%20Ordena%C3%A7%C3%A3o/insertion_sort.py)
+
+
+3. [Merge sort](https://github.com/arianeat/algoritmos/blob/main/Algoritmos%20de%20Ordena%C3%A7%C3%A3o/merge_sort.py)
+
+4. [Quick sort](https://github.com/arianeat/algoritmos/blob/main/Algoritmos%20de%20Ordena%C3%A7%C3%A3o/quick_sort.py)
+
+5. [Counting sort](https://github.com/arianeat/algoritmos/blob/main/Algoritmos%20de%20Ordena%C3%A7%C3%A3o/counting_sort.py)
+
+6. [Radix sort](https://github.com/arianeat/algoritmos/blob/main/Algoritmos%20de%20Ordena%C3%A7%C3%A3o/radix_sort.py)
+  
+7. [Heap máximo](https://github.com/arianeat/algoritmos/blob/main/Algoritmos%20de%20Ordena%C3%A7%C3%A3o/max_heap.py)
+
+8. [Heap sort](https://github.com/arianeat/algoritmos/blob/main/Algoritmos%20de%20Ordena%C3%A7%C3%A3o/heap_sort.py)
+
+#### ALGORITMOS GULOSOS
 #
-#### ATIVIDADE 2 - Ordenação por Comparação II  
-#  
-Implementação dos seguintes algoritmos de ordenação:
+1.
+2.
+3.
 
-• [Merge sort](https://github.com/arianeat/algoritmos_de_ordenacao/blob/main/merge_sort.py)
-
-• [Quick sort](https://github.com/arianeat/algoritmos_de_ordenacao/blob/main/quick_sort.py)
+#### PROGRAMAÇÃO DINÂMICA
 #
-#### ATIVIDADE 3 - Ordenação Linear  
-#  
-Implementação dos seguintes algoritmos de ordenação:
+1.
 
-• [Counting sort](https://github.com/arianeat/algoritmos_de_ordenacao/blob/main/counting_sort.py)
-
-• [Radix sort](https://github.com/arianeat/algoritmos_de_ordenacao/blob/main/radix_sort.py)
-#
-#### ATIVIDADE 4 - Ordenação por Comparação III   
-#  
-Implementação das seguintes estruturas e algoritmos:
-
-• [Heap máximo](https://github.com/arianeat/algoritmos_de_ordenacao/blob/main/max_heap.py)
-
-• [Heap sort](https://github.com/arianeat/algoritmos_de_ordenacao/blob/main/heap_sort.py)
