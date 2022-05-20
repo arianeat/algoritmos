@@ -34,7 +34,7 @@ def Dijkstra(arquivo):
     for i in range(0,len(matriz[0])):
         v =[]
         v.append(i) #vertice
-        v.append(0)  #pai
+        v.append(-1)  #pai
         v.append(float('inf'))  #chave
         V.append(v)  
 
