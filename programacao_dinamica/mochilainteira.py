@@ -9,7 +9,7 @@ Arquivo de entrada:
   ...
   pn vn
 
-  onde: n = |O
+  onde: n = número de objetos
         M = capacidade da mochila
         pi = vetor dos pesos dos objetos
         vi = vetor dos valores dos objetos
